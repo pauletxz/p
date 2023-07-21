@@ -41,6 +41,7 @@ h2 {
     margin-top: 1rem;
     display: flex;
 }
+
 .social-midia a {
     text-decoration: none;
     color: black;
@@ -98,7 +99,7 @@ transition: 400ms ease-in-out 0s;
 }
 
 .checkbox-trace:nth-child(3) {
-    top: 6%;
+    top: 66px;
     transform: rotate(0);
 }
 
