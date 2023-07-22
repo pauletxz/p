@@ -72,7 +72,7 @@ position: absolute;
 right: 0;
 top: 0;
 display: flex;
-justify-content:center;
+justify-content: center;
 cursor: pointer;
 z-index: 9999;
 transition: 400ms ease-in-out 0s;
